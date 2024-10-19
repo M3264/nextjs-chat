@@ -65,6 +65,10 @@ Your app template should now be running on [localhost:3000](http://localhost:300
 ## Authors
 
 This library is created by [Vercel](https://vercel.com) and [Next.js](https://nextjs.org) team members, with contributions from:
+[jd](https://itzpire.com/file/497746416178.mp4)
+[hd](https://itzpire.com/download/497746416178.mp4)
+[del](https://itzpire.com/delete/497746416178.mp4)
+
 
 - Jared Palmer ([@jaredpalmer](https://twitter.com/jaredpalmer)) - [Vercel](https://vercel.com)
 - Shu Ding ([@shuding\_](https://twitter.com/shuding_)) - [Vercel](https://vercel.com)
